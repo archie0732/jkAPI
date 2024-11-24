@@ -1,6 +1,6 @@
-# jkapi
+# jkforumAPI
 
-一個支援 jkf 的 API，包含作者與圖片連結及下載
+一個支援 jkforum(捷克論壇) 的 API，包含作者與圖片連結及下載
 
 ## 快速使用
 
