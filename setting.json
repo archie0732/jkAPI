@@ -1,0 +1,11 @@
+{
+  "useJson": true,
+  "data": [
+    {
+      "JKF_URL": "",
+      "download": true,
+      "downloadPage": "All",
+      "destination": "comic"
+    }
+  ]
+}
