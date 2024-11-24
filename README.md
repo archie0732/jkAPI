@@ -23,14 +23,16 @@ bun src/index.ts
 value:
 
 ```json
-title: string,
-url: string,
-author : {
-    "name": string,
-    "avatar": string,
-},
-time: string,
-img: string[]
+{
+    "title": "string",
+    "url": "string",
+    "author" : {
+        "name": "string",
+        "avatar": "string",
+    },
+    "time": "string",
+    "img": "string[]",
+}
 ```
 
 method:
