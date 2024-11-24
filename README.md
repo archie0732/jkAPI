@@ -37,8 +37,10 @@ value:
 
 method:
 
-- downloadImage(page: number, path:string) - download one page in jkAPI.img which you choose page number
+- downloadImage(page: number, path:string) - download one page in jkforumAPI.img which you choose page number
 
-- downloadAllImage(path) - download all image in jkAPI.img
+- downloadAllImage(path) - download all image in jkforumAPI.img
+
+#### 僅作為學術用途，不得商用
 
 This project was created using `bun init` in bun v1.1.24. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
